@@ -1,7 +1,7 @@
 #  Hi 👋 there I’m Vignesh-Thirumurgan
 - 🧑‍💻 I’m a computer science graduate
 - 🌱 I’m currently learning DSA
-- 🧪 I'm a Homelab and DevOps Enthusiast
+- 🧪 I'm a Homelabber and DevOps Enthusiast
 - 😄 Pronouns: Techie
 
 ### Technologies and stack I work with
